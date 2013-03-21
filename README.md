@@ -1,12 +1,14 @@
 nginx_websocket_proxing
 =======================
 
-trying out new nginx websockets proxy feature
+trying new nginx websockets proxy feature
+
+References : 
+- http://nginx.org/en/docs/http/websocket.html
+- http://psitsmike.com/2011/09/node-js-and-socket-io-chat-tutorial/          
 
 Instructions:
-
-Install node
-
+- Install node
 - cd ~
 - git clone https://github.com/vireshas/nginx_websocket_proxing.git
 - install nginx : http://nginx.org/download/nginx-1.3.14.tar.gz
